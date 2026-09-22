@@ -1,0 +1,11 @@
+*env
+.env
+node_modules
+node_modules_container
+.git
+.vscode-test
+**/generated-serialized-grammar.js
+test/fixtures/**
+dist
+coverage
+BadEntity.json
